@@ -1,0 +1,2 @@
+# javascript
+boas ideias 
